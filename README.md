@@ -8,6 +8,7 @@ for writting
 注：如果报错把tex文件中的这一行代码`\usepackage[UTF8]{ctex}` 改成：`\usepackage[GBK]{ctex}` 
 
 具体的模板运行结果如下：
+
 ![](https://github.com/jiandong4388/imgfolder/blob/master/2018-04-11%2020-54-41%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE.png)
 
 
